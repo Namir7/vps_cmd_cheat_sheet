@@ -7,3 +7,4 @@ sudo ufw default deny incoming
 sudo ufw allow from <ip-address>
 
 # try to connect by ssh
+sudo ufw reload
